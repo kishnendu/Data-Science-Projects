@@ -8,8 +8,8 @@ ID number: A unique identifier for each sample.
 Diagnosis: The target variable indicating the diagnosis, where 'M' represents malignant and 'B' represents benign.
 For each cell nucleus, ten real-valued features are computed, which are:
 
-Radius: The mean distance from the center to points on the perimeter of the nucleus.
-Texture: The standard deviation of gray-scale values in the nucleus.
+1. Radius: The mean distance from the center to points on the perimeter of the nucleus.
+2. Texture: The standard deviation of gray-scale values in the nucleus.
 Perimeter: The perimeter of the nucleus.
 Area: The area of the nucleus.
 Smoothness: A measure of local variation in radius lengths.
