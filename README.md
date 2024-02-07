@@ -22,3 +22,9 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
    - **Results:** The logistic regression, SVM and KNN performs the best with 93.8 % accuracy
 
 
+
+## Feedback and Contact
+I welcome any feedback, suggestions, or questions you may have about the projects or the repository. Feel free to reach out to me via email at 
+krishnendumukherjee573@gmail.com
+Enjoy exploring my data science projects!
+
