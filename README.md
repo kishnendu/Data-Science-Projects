@@ -7,4 +7,18 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
 ### GitHub Page 
 [![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://github.com/kishnendu/Data-Science-Projects)
 
+## Projects
+1. [Breast Cancer Prediction](https://github.com/kishnendu/Data-Science-Projects/tree/main/Breast%20Cancer%20Prediction)
+   - **Description:** The project predicts the diagnosis (M = malignant, B = benign) of the Breast Cancer
+   - **Technologies Used:** The notebooks uses Decision Tree Classification and Logistic Regression
+   - **Results:** The logistic regression gave 97% accuracy and decision tree gave 93.5% accuracy
+2. [Red Wine Quality Prediction](https://github.com/kishnendu/Data-Science-Projects/tree/main/Wine%20Quality%20Prediction)
+   -  **Description:** The project predicts the quality of the wine in the value 0 or 1. 1 for good quality and 0 for bad quality
+   - **Technologies Used:** The notebooks uses logistic regression, support vector machine, decision tree and knn
+   - **Results:** The logistic regression model performs the best with accuracy of 86.67%
+3. [Heart Stroke Prediction](https://github.com/kishnendu/Data-Science-Projects/tree/main/Heart%20Stroke%20Prediction)
+   -  **Description:** The project predicts the risk of heart stroke on studying the person's demographics and medical info
+   - **Technologies Used:** The notebooks uses logistic regression, support vector machine, decision tree and knn
+   - **Results:** The logistic regression, SVM and KNN performs the best with 93.8 % accuracy
+
 
