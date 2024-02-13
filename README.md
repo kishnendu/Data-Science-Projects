@@ -28,6 +28,14 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
     -  **Description:** The project predicts the survival during the titanic disaster based on socio-economic measures
     - **Technologies Used:** The notebooks uses Descision Tree Classifier
     - **Results:** The Decision Tree Classifer performed well on the test dataset with an accuracy of 89.5%
+6. [Diamond Price Prediction](https://github.com/kishnendu/Data-Science-Projects/tree/main/Diamond%20Price%20Prediction)
+    -  **Description:** The project predicts the price (in US dollars) of the diamonds based on their features
+    - **Technologies Used:** The notebooks uses Descision Tree Regressor and Random Forest Regressor
+    - **Results:** The Decision Tree Regresor performed well on the test dataset with an accuracy of 96%
+7. [Medical Cost Prediction](https://github.com/kishnendu/Data-Science-Projects/tree/main/Medical%20Cost%20Prediction)
+    - **Description:** The project predicts the medical treatment cost by analysing the patients age, gender, bmi, smoking habits etc.
+    - **Technologies Used:** The notebooks uses Linear and Polynomial Regression, Decision Tree and Random Forest Regressor
+    - **Results:** The Decision Tree Regressor and Random Forest Regressor performed well
 
 
 
