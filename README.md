@@ -36,6 +36,10 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
     - **Description:** The project predicts the medical treatment cost by analysing the patients age, gender, bmi, smoking habits etc.
     - **Technologies Used:** The notebooks uses Linear and Polynomial Regression, Decision Tree and Random Forest Regressor.
     - **Results:** The Decision Tree Regressor and Random Forest Regressor performed well.
+8. [Room Occupancy Detection](https://github.com/kishnendu/Data-Science-Projects/tree/main/Room%20Occupancy%20Detection)
+    - **Description:** The project predicts the room occupancy by analyzing the sensor data such as temperature, light and co2 level.
+    - **Technologies Used:** The notebooks uses Random Forest Classifier
+    - **Results:** The Random Forest Classifier performed well with an accuracy of 98%
 
 
 
