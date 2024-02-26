@@ -53,6 +53,18 @@ blood pressure, and more
      - **Description:** The main objective of the Bank Customer Churn Prediction project is to analyze the demographics  in order to predict whether a customer will leave the bank or not.
     - **Technologies Used:** The notebooks uses Random Forest Classifier and Decision Tree Classifier
     - **Results:** The Random Forest Classifier and Decision Tree Classifier performed equally well with an accuracy of 87%
+12. [Salary Prediction](https://github.com/kishnendu/Data-Science-Projects/tree/main/Salary%20Prediction)
+    - **Description:** The main objective of the Salary Prediction project is analyze the employee's demographics such as  age, experience job title, country and race to predicts the salary.
+    - **Technologies Used:** The notebooks uses Descision Tree Regressor and Random Forest Regressor
+    - **Results:** The Random Forest Regressor performed best with 94.6% accuracy.
+13. [Loan Approval Prediction](https://github.com/kishnendu/Data-Science-Projects/tree/main/Loan%20Approval%20Prediction)
+    - **Description:** The Loan Approval Prediction project aims to predict whether a loan application will be approved by a bank.
+    - **Technologies Used:** The notebooks uses Random Forest Classifier and Decision Tree Classifier
+    - **Results:** The Decision Tree Classifier performed well with an accuracy of 91.4%
+14. [Warranty Claims Fraud Prediction](https://github.com/kishnendu/Data-Science-Projects/tree/main/Warranty%20Claims%20Fraud%20Prediction)
+    - **Description:** The aim of this data science project is to predict the authenticity of warranty claims by analyzing various factors such as region, product category, claim value, and more.
+    - **Technologies Used:** The notebooks uses Decision Tree Classifier, Random Forest Classifier and Logistic Regression
+    - **Results:** All three models gave an accuracy of 91-92%
 
 
 
